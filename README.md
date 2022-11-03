@@ -28,14 +28,6 @@ As a user, you can search and filter characters. As a logged in user, you can ra
 
 ![Leaderboard](/static/leaderboard.png)
 
-### Character page
-
-![Character page](/static/character-not-rated.png)
-
-### Rate character
-
-![Rate character](/static/rate-character.png)
-
 ### Character with rating
 
 ![Rated character](/static/character-rated.png)
