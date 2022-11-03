@@ -1,0 +1,10 @@
+query GetUsers($page: Int, $orderBy: Order) {
+  users(page: $page, orderBy: $orderBy) {
+    info {
+      ...DefaultPageInfo
+    }
+    results {
+      ...DefaultUser
+    }
+  }
+}

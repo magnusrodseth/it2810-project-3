@@ -1,0 +1,10 @@
+fragment DefaultCharacter on Character {
+  id
+  name
+  status
+  species
+  type
+  gender
+  location
+  image
+}
