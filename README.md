@@ -6,6 +6,40 @@ This project is full-stack web application about Rick and Morty characters.
 
 As a user, you can search and filter characters. As a logged in user, you can rate a given character. You can also see a leaderboard of all users' number of ratings, sorted in ascending or descending order.
 
+## Screenshots 📷
+
+### Landing page
+
+![Landing page](/static/landing.png)
+
+### Dashboard
+
+![Dashboard](/static/dashboard.png)
+
+### Register
+
+![Register](/static/register.png)
+
+### Login
+
+![Login](/static/login.png)
+
+### Leaderboard
+
+![Leaderboard](/static/leaderboard.png)
+
+### Character page
+
+![Character page](/static/character-not-rated.png)
+
+### Rate character
+
+![Rate character](/static/rate-character.png)
+
+### Character with rating
+
+![Rated character](/static/character-rated.png)
+
 ## Live demo
 
 Please use [this link](http://it2810-11.idi.ntnu.no/project3) to visit a live demo of the website.
